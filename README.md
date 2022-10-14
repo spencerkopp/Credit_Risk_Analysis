@@ -39,15 +39,15 @@ The following imbalanced classification reports support the preceding results, a
 <img width="672" alt="randomforest_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918719-d3992c70-f0fb-4263-a3fe-e3f327fdd57a.PNG">
 
 #### Naive Random Oversampling
-<img width="452" alt="naive_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918678-8323ad5b-3a77-42ef-9e9d-bd16ddd15dbf.PNG">
+<img width="675" alt="naive_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918678-8323ad5b-3a77-42ef-9e9d-bd16ddd15dbf.PNG">
 
 #### SMOTE Oversampling
-<img width="467" alt="smote_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918747-9e78e849-f00c-4124-8452-684de5f7b594.PNG">
+<img width="675" alt="smote_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918747-9e78e849-f00c-4124-8452-684de5f7b594.PNG">
 
 #### Cluster Centroids Undersampling
-<img width="449" alt="cluster_centroids_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918554-e2f4d1c2-b8d0-4de8-bfb1-f87c98e26d13.PNG">
+<img width="675" alt="cluster_centroids_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918554-e2f4d1c2-b8d0-4de8-bfb1-f87c98e26d13.PNG">
 
 #### SMOTEENN Combination Sampling
-<img width="402" alt="smoteenn_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918773-a51f6422-fc1b-493b-8b66-5ab731a4a361.PNG">
+<img width="675" alt="smoteenn_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918773-a51f6422-fc1b-493b-8b66-5ab731a4a361.PNG">
 
 ## Summary 
