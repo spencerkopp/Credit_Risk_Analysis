@@ -29,4 +29,25 @@ These results can also be found in the results folder which includes accuracy sc
 - The recall score for the cluster centroids undersampling model was .69 for high risk loans, and .4 for low risk loans.
 - The recall score for the SMOTEENN combination sampling model was .77 for high risk loans and 1 for low risk loans. 
 
+### Imbalanced Classification Reports
+The following imbalanced classification reports support the preceding results, as well as showing the associated F1 scores which describe the balance between precision and recall in each model.
+
+#### Easy Ensemble
+<img width="689" alt="easy_ensemble_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918603-f2451607-6b2e-4366-a40b-d181176fe757.PNG">
+
+#### Balanced Random Forest
+<img width="672" alt="randomforest_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918719-d3992c70-f0fb-4263-a3fe-e3f327fdd57a.PNG">
+
+#### Naive Random Oversampling
+<img width="452" alt="naive_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918678-8323ad5b-3a77-42ef-9e9d-bd16ddd15dbf.PNG">
+
+#### SMOTE Oversampling
+<img width="467" alt="smote_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918747-9e78e849-f00c-4124-8452-684de5f7b594.PNG">
+
+#### Cluster Centroids Undersampling
+<img width="449" alt="cluster_centroids_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918554-e2f4d1c2-b8d0-4de8-bfb1-f87c98e26d13.PNG">
+
+#### SMOTEENN Combination Sampling
+<img width="402" alt="smoteenn_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918773-a51f6422-fc1b-493b-8b66-5ab731a4a361.PNG">
+
 ## Summary 
