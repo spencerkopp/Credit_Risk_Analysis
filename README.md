@@ -1,7 +1,8 @@
 # Credit_Risk_Analysis
 
 ## Overview
-The purpose of this project is to analyze 
+The purpose of this project is to use supervized machine learning in order to analyze credit risk. Credit risk analysis poses a potential difficulty due to unbalanced classification (as good loans outnumber risky loans). Six models are trained and tested with credit risk information and their performance evaluated. These approaches include RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier and EasyEnsembleClassifier of the Scikit-learn library.  
+
 ## Results
 These results can also be found in the results folder which includes accuracy scores, confusion matrices, and imbalanced classification reports for all 6 models. 
 
