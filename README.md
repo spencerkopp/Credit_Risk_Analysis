@@ -33,10 +33,10 @@ These results can also be found in the results folder which includes accuracy sc
 The following imbalanced classification reports support the preceding results, as well as showing the associated F1 scores which describe the balance between precision and recall in each model.
 
 #### Easy Ensemble
-<img width="689" alt="easy_ensemble_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918603-f2451607-6b2e-4366-a40b-d181176fe757.PNG">
+<img width="675" alt="easy_ensemble_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918603-f2451607-6b2e-4366-a40b-d181176fe757.PNG">
 
 #### Balanced Random Forest
-<img width="672" alt="randomforest_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918719-d3992c70-f0fb-4263-a3fe-e3f327fdd57a.PNG">
+<img width="675" alt="randomforest_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918719-d3992c70-f0fb-4263-a3fe-e3f327fdd57a.PNG">
 
 #### Naive Random Oversampling
 <img width="675" alt="naive_imbalanced" src="https://user-images.githubusercontent.com/107224097/195918678-8323ad5b-3a77-42ef-9e9d-bd16ddd15dbf.PNG">
